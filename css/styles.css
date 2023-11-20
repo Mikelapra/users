@@ -11,3 +11,51 @@ h1 {
 }
 
 
+
+#listaUsuarios {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content:center;
+}
+
+.usuarios {
+width: 400px;
+height: 180px;
+display: flex;
+flex-direction:column;
+padding: 10px;
+border: 1px solid gray;
+background-color: white;
+margin: 15px;
+}
+
+.nombreImagen{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.datosPersonales {
+
+  padding: 10px;
+  line-height:0;
+  flex-direction: column;
+  border: 1px solid grey;
+}
+
+.compania{
+  line-height:0;
+}
+
+.compania p:nth-child(2) {
+  line-height:1;
+}
+
+.usuarios img {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  justify-content: center;
+}

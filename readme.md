@@ -22,7 +22,7 @@ Este proyecto utiliza JavaScript para obtener datos simulados de usuarios desde 
 
 Debería quedar algo similar a esto
 
-![users](./assets/img/users.png)
+![users](./assets/cd..img/users.png)
 
 ## Consejos
 
